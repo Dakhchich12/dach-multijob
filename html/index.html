@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+    <div id="app" class="hidden">
+        <div class="panel">
+            <header class="panel-head">
+                <div class="titles">
+                    <h1 id="title">MULTI JOB</h1>
+                    <p id="subtitle" class="sub">Select active profession</p>
+                </div>
+                <button type="button" class="btn-close" id="btn-close" title="Close">×</button>
+            </header>
+            <div class="panel-body">
+                <ul id="job-list" class="job-list"></ul>
+                <p id="empty" class="empty hidden"></p>
+            </div>
+            <footer class="panel-foot">
+                <button type="button" class="btn-duty hidden" id="btn-duty" title=""></button>
+                <span id="hint" class="hint"></span>
+            </footer>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
