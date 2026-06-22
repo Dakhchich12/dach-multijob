@@ -4,7 +4,7 @@ Modern **multi job** menu for **QBCore**: fully **transparent** NUI (game world 
 
 ## Preview
 
-![Multi Job Menu Preview](attached_assets/generated_images/multijob_menu_preview.png)
+![Multi Job Menu Preview](multijob_menu_preview.png)
 
 ## Install
 
