@@ -2,6 +2,10 @@
 
 Modern **multi job** menu for **QBCore**: fully **transparent** NUI (game world visible), **Web Audio** UI sounds, smooth CSS transitions.
 
+## Preview
+
+![Multi Job Menu Preview](attached_assets/generated_images/multijob_menu_preview.png)
+
 ## Install
 
 1. Place `dach-multijob` in `resources/[qb]/` (or your resources folder).
