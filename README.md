@@ -57,3 +57,6 @@ exports['dach-multijob']:RemoveJob(source, 'police')
 - **Job sync:** the list is updated when your **real** QBCore job changes (boss menu, admin, other scripts): the current job is added if missing and the **grade** is kept in sync. Opening the menu also refreshes from the server.
 - **FPS:** the client no longer runs a tight `Wait(0)` loop while the menu is open. Set `Config.DisableNuiBackdropBlur = true` (default) to disable expensive CSS `backdrop-filter` on the panel.
 - UI sounds use the **Web Audio API**. A native GTA **confirm** sound plays on successful switch (configurable in `config.lua`).
+
+**
+Created with ❤️ by Dakhchich
